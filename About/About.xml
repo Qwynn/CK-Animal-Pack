@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 
-    <name>CK - Animal and Plant Pack</name>
+    <name>CK - Animals</name>
 
     <author>Coercion (Textures) | KapTaiN_KaVerN (Code)</author>
 
     <url>https://ludeon.com/forums/index.php?topic=25187</url>
 
-    <targetVersion>0.15.1284</targetVersion>
+    <targetVersion>0.16.0</targetVersion>
 
-<description>The purpose of this mod is to add a significant amount of new animals and plants to the game and increase fauna and flora biome diversity.</description>
+<description>A fork of CK Animals and Plants. This version is updated to A16 and guts the entire mod leaving only the animals intact for a broader range of compatability (or people who just wanted their excellent work on the additional animals).</description>
 
 </ModMetaData>
