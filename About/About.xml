@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 
-    <name>CK - Animals</name>
+    <name>CK Animal Pack</name>
 
     <author>Coercion (Textures) | KapTaiN_KaVerN (Code)</author>
 
@@ -9,6 +9,6 @@
 
     <targetVersion>0.16.0</targetVersion>
 
-<description>A fork of CK Animals and Plants. This version is updated to A16 and guts the entire mod leaving only the animals intact for a broader range of compatability (or people who just wanted their excellent work on the additional animals).</description>
+<description>A fork of CK Animals and Plants. This version is updated to A16 and guts the entire mod leaving only the animals intact.</description>
 
 </ModMetaData>
