@@ -44,7 +44,7 @@
 		<verbs>
 			<li>
 				<verbClass>Verb_MeleeAttack</verbClass>
-		        <defaultCooldownTicks>100</defaultCooldownTicks>
+		        <defaultCooldownTime>100</defaultCooldownTime>
 		        <meleeDamageBaseAmount>5</meleeDamageBaseAmount>
 		        <meleeDamageDef>Bite</meleeDamageDef>
 		        <linkedBodyPartsGroup>Beak</linkedBodyPartsGroup>
@@ -115,7 +115,7 @@
 			<lifeExpectancy>9</lifeExpectancy>
 			<leatherColor>(80,80,80)</leatherColor>
 			<wildBiomes>
-				<TropicalForest>0.02</TropicalForest>
+				<TropicalRainforest>0.02</TropicalRainforest>
 				<TemperateForest>0.06</TemperateForest>
 			</wildBiomes>
 	    </race>
@@ -134,14 +134,14 @@
 	    <verbs>
 			<li>
 				<verbClass>Verb_MeleeAttack</verbClass>
-				<defaultCooldownTicks>100</defaultCooldownTicks>
+				<defaultCooldownTime>100</defaultCooldownTime>
 				<meleeDamageBaseAmount>6</meleeDamageBaseAmount>
 				<meleeDamageDef>Scratch</meleeDamageDef>
 				<linkedBodyPartsGroup>Feet</linkedBodyPartsGroup>	        
 			</li>
 			<li>
 				<verbClass>Verb_MeleeAttack</verbClass>
-				<defaultCooldownTicks>110</defaultCooldownTicks>
+				<defaultCooldownTime>110</defaultCooldownTime>
 				<meleeDamageBaseAmount>5</meleeDamageBaseAmount>
 				<meleeDamageDef>Bite</meleeDamageDef>
 				<linkedBodyPartsGroup>Beak</linkedBodyPartsGroup>
@@ -237,7 +237,7 @@
 		    <lifeExpectancy>9</lifeExpectancy>
 		    <leatherColor>(80,80,80)</leatherColor>
 			<wildBiomes>
-				<TropicalForest>1.2</TropicalForest>
+				<TropicalRainforest>1.2</TropicalRainforest>
 			</wildBiomes>
 		</race>
 		<comps>
@@ -255,14 +255,14 @@
 		<verbs>
 			<li>
         		<verbClass>Verb_MeleeAttack</verbClass>
-        		<defaultCooldownTicks>90</defaultCooldownTicks>
+        		<defaultCooldownTime>90</defaultCooldownTime>
         		<meleeDamageBaseAmount>3</meleeDamageBaseAmount>
 		        <meleeDamageDef>Scratch</meleeDamageDef>
         		<linkedBodyPartsGroup>Feet</linkedBodyPartsGroup>
         	</li>
         	<li>
         		<verbClass>Verb_MeleeAttack</verbClass>
-        		<defaultCooldownTicks>100</defaultCooldownTicks>
+        		<defaultCooldownTime>100</defaultCooldownTime>
         		<meleeDamageBaseAmount>5</meleeDamageBaseAmount>
         		<meleeDamageDef>Bite</meleeDamageDef>
         		<linkedBodyPartsGroup>Beak</linkedBodyPartsGroup>

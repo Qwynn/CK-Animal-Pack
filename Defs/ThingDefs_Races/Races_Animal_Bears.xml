@@ -113,7 +113,7 @@
       <meatLabel>panda meat</meatLabel>
       <predator>false</predator>
       <wildBiomes>
-	      <TropicalForest>0.06</TropicalForest>
+	      <TropicalRainforest>0.06</TropicalRainforest>
       </wildBiomes>
     </race>
     <tradeTags>

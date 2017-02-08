@@ -15,21 +15,21 @@
 		<verbs>
 			<li>
 				<verbClass>Verb_MeleeAttack</verbClass>
-				<defaultCooldownTicks>90</defaultCooldownTicks>
+				<defaultCooldownTime>90</defaultCooldownTime>
 				<meleeDamageBaseAmount>8</meleeDamageBaseAmount>
 				<meleeDamageDef>Scratch</meleeDamageDef>
 				<linkedBodyPartsGroup>FrontLeftClaws</linkedBodyPartsGroup>
 			</li>
 			<li>
 				<verbClass>Verb_MeleeAttack</verbClass>
-				<defaultCooldownTicks>90</defaultCooldownTicks>
+				<defaultCooldownTime>90</defaultCooldownTime>
 				<meleeDamageBaseAmount>8</meleeDamageBaseAmount>
 				<meleeDamageDef>Scratch</meleeDamageDef>
 				<linkedBodyPartsGroup>FrontRightClaws</linkedBodyPartsGroup>
 			</li>
 			<li>
 				<verbClass>Verb_MeleeAttack</verbClass>
-				<defaultCooldownTicks>120</defaultCooldownTicks>
+				<defaultCooldownTime>120</defaultCooldownTime>
 				<meleeDamageBaseAmount>12</meleeDamageBaseAmount>
 				<meleeDamageDef>ToxicBite</meleeDamageDef>
 				<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
@@ -61,7 +61,7 @@
 			<wildness>0.8</wildness>
 			<gestationPeriodDays>20</gestationPeriodDays>
 			<wildBiomes>
-				<TropicalForest>0.12</TropicalForest>
+				<TropicalRainforest>0.12</TropicalRainforest>
 			</wildBiomes>
 			<litterSizeCurve>
 				<points>

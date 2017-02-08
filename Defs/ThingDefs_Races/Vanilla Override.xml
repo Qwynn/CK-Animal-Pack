@@ -298,7 +298,7 @@
       </li>
       <li>
         <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTicks>100</defaultCooldownTicks>
+        <defaultCooldownTime>100</defaultCooldownTime>
         <meleeDamageBaseAmount>6</meleeDamageBaseAmount>
         <meleeDamageDef>Scratch</meleeDamageDef>
         <linkedBodyPartsGroup>HornAttackTool</linkedBodyPartsGroup>
@@ -437,7 +437,7 @@
       </li>
       <li>
         <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTicks>100</defaultCooldownTicks>
+        <defaultCooldownTime>100</defaultCooldownTime>
         <meleeDamageBaseAmount>6</meleeDamageBaseAmount>
         <meleeDamageDef>Blunt</meleeDamageDef>
         <linkedBodyPartsGroup>HornAttackTool</linkedBodyPartsGroup>
@@ -589,7 +589,7 @@
       </li>
       <li>
         <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTicks>100</defaultCooldownTicks>
+        <defaultCooldownTime>100</defaultCooldownTime>
         <meleeDamageBaseAmount>7</meleeDamageBaseAmount>
         <meleeDamageDef>Scratch</meleeDamageDef>
         <linkedBodyPartsGroup>HornAttackTool</linkedBodyPartsGroup>
@@ -750,7 +750,7 @@
       </li>
       <li>
         <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTicks>110</defaultCooldownTicks>
+        <defaultCooldownTime>110</defaultCooldownTime>
         <meleeDamageBaseAmount>11</meleeDamageBaseAmount>
         <meleeDamageDef>Scratch</meleeDamageDef>
         <linkedBodyPartsGroup>HornAttackTool</linkedBodyPartsGroup>
@@ -909,7 +909,7 @@
       </li>
       <li>
         <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTicks>110</defaultCooldownTicks>
+        <defaultCooldownTime>110</defaultCooldownTime>
         <meleeDamageBaseAmount>11</meleeDamageBaseAmount>
         <meleeDamageDef>Scratch</meleeDamageDef>
         <linkedBodyPartsGroup>HornAttackTool</linkedBodyPartsGroup>
