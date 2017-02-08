@@ -28,7 +28,7 @@
 			<baseHungerRate>2.0</baseHungerRate>
 			<baseBodySize>4.0</baseBodySize>
 			<baseHealthScale>3.6</baseHealthScale>
-			<foodType>VegetarianRoughAnimal</foodType>
+			<foodType>VegetarianRoughAnimal, DendrovoreAnimal</foodType>
 			<leatherLabel>elephant skin</leatherLabel>
 			<leatherColor>(130,126,119)</leatherColor>
 			<leatherInsulation>0.65</leatherInsulation>
