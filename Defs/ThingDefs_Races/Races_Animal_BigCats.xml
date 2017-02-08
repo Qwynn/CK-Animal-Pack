@@ -305,7 +305,7 @@
         <leatherLabel>jaguar skin</leatherLabel>
         <leatherColor>(230,150,60)</leatherColor>
         <wildBiomes>
-	        <TropicalRainforest>0.20</TropicalRainforest>
+	        <TropicalRainforest>0.30</TropicalRainforest>
 	        <Desert>0.025</Desert>
 	        <TemperateForest>0.10</TemperateForest>
           <AridShrubland>0.050</AridShrubland>
