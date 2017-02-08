@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-  <!-- Komodo dragon -->
+<!--============================== Komdo Dragon ==============================-->
   
   <ThingDef ParentName="EggFertBase">
     <defName>CK_EggKomodoFertilized</defName>
@@ -22,28 +22,7 @@
     </comps>
   </ThingDef>
 
-  <!-- Python -->
-
-  <ThingDef ParentName="EggFertBase">
-    <defName>CK_EggPythonFertilized</defName>
-    <label>Python egg (fert.)</label>
-    <description>Fertilized python egg. If all goes well, it should hatch into a baby python. It can be eaten raw, but it's much better cooked.</description>
-    <graphicData>
-      <texPath>Things/Item/Resource/AnimalProductRaw/EggOval</texPath>
-      <color>(225,225,225)</color>
-    </graphicData>
-    <statBases>
-      <MarketValue>40.0</MarketValue>
-    </statBases>
-    <comps>
-      <li Class="CompProperties_Hatcher">
-        <hatcherDaysToHatch>6</hatcherDaysToHatch>
-        <hatcherPawn>CK_Python</hatcherPawn>
-      </li>
-    </comps>
-  </ThingDef>
-
-  <!-- Peafowl -->
+<!--============================== Peafowl ==============================-->
 
   <ThingDef ParentName="EggUnfertBase">
     <defName>CK_EggPeafowlUnfertilized</defName>
@@ -76,7 +55,7 @@
     </comps>
   </ThingDef>
 
-  <!-- Junglefowl -->
+<!--============================== Junglefowl==============================-->
 
   <ThingDef ParentName="EggUnfertBase">
     <defName>CK_EggJunglefowlUnfertilized</defName>
